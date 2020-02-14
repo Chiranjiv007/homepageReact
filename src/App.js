@@ -1,6 +1,7 @@
 import React from 'react';
-import Sidebar from './Sidebar';
-import './index.css';
+import Sidebar from './components/Sidebar';
+import './styles/index.css';
+import Navigation from './components/Navigation';
 
 function App(){
   return(
